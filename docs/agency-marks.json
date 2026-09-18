@@ -1,0 +1,99 @@
+[
+  {
+    "id": "agency-brand-vision",
+    "name": "Brand Vision",
+    "url": "https://www.brandvm.com/our-work-portfolio",
+    "source": "https://cdn.prod.website-files.com/68b9f0236581de795cba8ec2/6a959f61b4c30e1af77118f3_Favicon.png",
+    "file": "agency-brand-vision.webp",
+    "width": 512,
+    "height": 512,
+    "sha256": "96a3a9580ea963730809e89fa1d874f60e96d89ba71dcd4555699a7c2dae9a13"
+  },
+  {
+    "id": "agency-webfx",
+    "name": "WebFX",
+    "url": "https://www.webfx.com/portfolio/case-studies/",
+    "source": "https://www.webfx.com/wp-content/uploads/2021/10/favicon.png",
+    "file": "agency-webfx.webp",
+    "width": 32,
+    "height": 32,
+    "sha256": "0e417b4aa695e82c2444e00e1bcae81e257f98ec0531a2953d788dbcc3801e93"
+  },
+  {
+    "id": "agency-ignite-visibility",
+    "name": "Ignite Visibility",
+    "url": "https://ignitevisibility.com/case-studies/",
+    "source": "https://ignitevisibility.com/wp-content/uploads/2024/05/cropped-iv_icon_transparent_dark__1_-192x192.png",
+    "file": "agency-ignite-visibility.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "5c2b350307ef0583ed3a1c5d4ee9176ec9ca8ed108a354219ca93fcc7c3cbfe8"
+  },
+  {
+    "id": "agency-victorious",
+    "name": "Victorious",
+    "url": "https://victorious.com/case-studies/",
+    "source": "https://victorious.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+    "file": "agency-victorious.webp",
+    "width": 180,
+    "height": 180,
+    "sha256": "8455e82eb16b5a7a8882a4d22e9d2fb3b42848c9621700b55e97d3d43443d826"
+  },
+  {
+    "id": "agency-smartsites",
+    "name": "SmartSites",
+    "url": "https://www.smartsites.com/work/",
+    "source": "https://www.smartsites.com/media/cropped-SmartSites-favicon-192x192.png",
+    "file": "agency-smartsites.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "2ad1ff1fcedd5276fb4f4dfbd79cae069646aaf1624be23a3e217c91c960e0f8"
+  },
+  {
+    "id": "agency-np-digital",
+    "name": "NP Digital",
+    "url": "https://npdigital.com/work/",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-outerbox",
+    "name": "OuterBox",
+    "url": "https://www.outerboxdesign.com/work/case-studies/",
+    "source": "https://www.outerboxdesign.com/wp-content/uploads/2026/04/obx-favicon.png",
+    "file": "agency-outerbox.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "a5d2ae98699b332d34d2b76b9f881400f5f6104280ac5fc2017529b801b99a6c"
+  },
+  {
+    "id": "agency-siege-media",
+    "name": "Siege Media",
+    "url": "https://www.siegemedia.com/work/all",
+    "source": "https://www.siegemedia.com/wp-content/favicons/favicon-48x48.png?v=2",
+    "file": "agency-siege-media.webp",
+    "width": 48,
+    "height": 48,
+    "sha256": "c688671bfeedd95fcf4718112fe1265a847dcae7b607cd9dfae1516902152a08"
+  },
+  {
+    "id": "agency-searchbloom",
+    "name": "Searchbloom",
+    "url": "https://www.searchbloom.com/case-studies/",
+    "source": "https://www.searchbloom.com/wp-content/themes/searchbloom_optimized/assets/favicons/favicon-32x32.png",
+    "file": "agency-searchbloom.webp",
+    "width": 32,
+    "height": 32,
+    "sha256": "72b08ec28200d13f688f59b3a1ee9a804f656cdb351ccc8ce6519aee213d0be0"
+  },
+  {
+    "id": "agency-directive",
+    "name": "Directive",
+    "url": "https://directiveconsulting.com/success-stories/",
+    "source": "https://directiveconsulting.com/wp-content/uploads/2024/04/favicon-32x32-1.webp",
+    "file": "agency-directive.webp",
+    "width": 32,
+    "height": 32,
+    "sha256": "9d97f1b430884ba4b86016abb3bc65529290200236bde40e8ceb4c773878f520"
+  }
+]

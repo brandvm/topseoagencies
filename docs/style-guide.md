@@ -1,9 +1,7 @@
-# Top SEO Agencies — visual style guide
+# topseoagencies — directory design v3
 
-[Open the protected style guide](https://topseoagencies-staging.hamoun-ce6.workers.dev/design/) · [Screenshot reference board](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/references/)
+[Style guide](https://topseoagencies-staging.hamoun-ce6.workers.dev/design/) · [References](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/references/)
 
-Clear research publication: Summary-first reading · compact agency index · disciplined tables.
+A compact research heading paired with a guide-at-a-glance panel, a ten-company identity strip, teal comparison tables and data-first profile cards.
 
-The staging-only `design/` directory owns the rendered guide, font specimens, original cover assets and attributed research screenshots. `scripts/postbuild.mjs` copies it into staging only and adds page-specific review anchors. Production builds exclude it.
-
-The guide is a proposed direction for review, not an assertion of design approval or WCAG certification. Original screenshot captures: 18 September 2026. Mobbin captures were downloaded from its supplied full-resolution image URLs; canonical source links are retained in the guide.
+Typography: Manrope + Inter Tight; self-hosted sans-serif Google Fonts. The main article is `/`; additional supplied pages appear directly in the navbar. `design/` is staging-only. Company identity assets and fallbacks are documented in `docs/agency-marks.json`.

@@ -1,37 +1,72 @@
 [
   {
-    "width": 320,
-    "path": "/topseoagencies/",
-    "brokenImages": [],
-    "h1": 1,
-    "overflow": false
+    "page": "topseoagencies/index.html",
+    "checks": [
+      {
+        "bodyWidth": 1440,
+        "h1": 1,
+        "missingImages": [],
+        "width": 1440
+      },
+      {
+        "bodyWidth": 390,
+        "h1": 1,
+        "missingImages": [],
+        "width": 390
+      },
+      {
+        "bodyWidth": 1440,
+        "h1": 1,
+        "missingImages": [],
+        "width": 1440
+      },
+      {
+        "bodyWidth": 1024,
+        "h1": 1,
+        "missingImages": [],
+        "width": 1024
+      },
+      {
+        "bodyWidth": 320,
+        "h1": 1,
+        "missingImages": [],
+        "width": 320
+      }
+    ]
   },
   {
-    "width": 390,
-    "path": "/topseoagencies/",
-    "brokenImages": [],
-    "h1": 1,
-    "overflow": false
-  },
-  {
-    "width": 768,
-    "path": "/topseoagencies/",
-    "brokenImages": [],
-    "h1": 1,
-    "overflow": false
-  },
-  {
-    "width": 1024,
-    "path": "/topseoagencies/",
-    "brokenImages": [],
-    "h1": 1,
-    "overflow": false
-  },
-  {
-    "width": 1440,
-    "path": "/topseoagencies/",
-    "brokenImages": [],
-    "h1": 1,
-    "overflow": false
+    "page": "index.html",
+    "checks": [
+      {
+        "bodyWidth": 1440,
+        "h1": 1,
+        "missingImages": [],
+        "width": 1440
+      },
+      {
+        "bodyWidth": 390,
+        "h1": 1,
+        "missingImages": [],
+        "width": 390
+      },
+      {
+        "bodyWidth": 768,
+        "h1": 1,
+        "missingImages": [],
+        "width": 768
+      },
+      {
+        "bodyWidth": 1024,
+        "h1": 1,
+        "missingImages": [],
+        "width": 1024
+      },
+      {
+        "bodyWidth": 320,
+        "h1": 1,
+        "missingImages": [],
+        "width": 320
+      }
+    ]
   }
 ]

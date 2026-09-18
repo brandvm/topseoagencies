@@ -3,31 +3,24 @@
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 5090,
-      "fontBytes": 67024,
+      "cssGzipBytes": 4481,
+      "fontBytes": 69708,
       "javascriptGzipBytes": 15448,
       "profiles": 0
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 5090,
-      "fontBytes": 67024,
+      "cssGzipBytes": 4481,
+      "fontBytes": 69708,
       "javascriptGzipBytes": 15448,
       "profiles": 0
-    },
-    {
-      "page": "/blog/top-seo-agencies/index.html",
-      "cssGzipBytes": 5090,
-      "fontBytes": 67024,
-      "javascriptGzipBytes": 15448,
-      "profiles": 10
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 5090,
-      "fontBytes": 67024,
+      "cssGzipBytes": 4481,
+      "fontBytes": 69708,
       "javascriptGzipBytes": 15448,
-      "profiles": 0
+      "profiles": 10
     }
   ]
 }

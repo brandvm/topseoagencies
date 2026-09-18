@@ -5,15 +5,24 @@
   "eyebrow": "THE ORGANIC SEARCH BRIEFING",
   "headline": "Find the expertise.See the opportunity.",
   "intro": "Compare SEO agencies by the work they do, the businesses they serve, and the investment involved. A practical starting point for your next search partnership.",
-  "accent": "#176a70",
-  "bg": "#f5f8fb",
-  "ink": "#152d40",
-  "muted": "#526771",
-  "line": "#bdcfd0",
+  "accent": "#006b72",
+  "bg": "#f8fbfd",
+  "ink": "#153449",
+  "muted": "#526d7c",
+  "line": "#cbdce4",
   "display": "manrope",
-  "body": "dm-sans",
+  "body": "inter-tight",
   "style": "research",
   "description": "Compare SEO agencies by services, budgets, client experience, and business fit, with detailed profiles and practical answers.",
   "domain": "topseoagencies.co",
-  "repo": "topseoagencies"
+  "repo": "topseoagencies",
+  "homeArticle": "top-seo-agencies",
+  "brief": "Compare the expertise, scope and investment behind organic growth.",
+  "direction": "The search agency comparison",
+  "navigation": [
+    {
+      "slug": "top-seo-agencies",
+      "label": "SEO agencies"
+    }
+  ]
 }
