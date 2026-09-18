@@ -1,0 +1,227 @@
+{
+  "headers": [
+    "#",
+    "Agency",
+    "EST",
+    "Locations",
+    "Min. Budget",
+    "Focus",
+    "Score"
+  ],
+  "agencies": [
+    {
+      "id": "agency-brand-vision",
+      "name": "Brand Vision",
+      "heading": "1. Brand Vision",
+      "cells": [
+        "1",
+        "Brand Vision",
+        "2018",
+        "Toronto, Canada; Chicago, San Francisco and Miami, USA",
+        "$10,000+",
+        "SEO integrated with branding, website development and UX",
+        "9.4/10"
+      ],
+      "facts": [
+        "📍 <strong>Toronto, Canada; Chicago, San Francisco and Miami, USA</strong> | <strong>Est. 2018</strong> | <strong>Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.9/5</strong>* | DesignRush: <strong>4.8/5</strong>",
+        "<strong>Clients:</strong> Flipp, Safeway/Albertsons, First Horizon Bank, TeraWulf"
+      ]
+    },
+    {
+      "id": "agency-webfx",
+      "name": "WebFX",
+      "heading": "2. WebFX",
+      "cells": [
+        "2",
+        "WebFX",
+        "1995",
+        "Harrisburg, USA; additional US offices",
+        "$1,000+",
+        "Revenue-focused SEO, content marketing, local SEO and integrated marketing",
+        "9.3/10"
+      ],
+      "facts": [
+        "📍 <strong>Harrisburg, New York City, Philadelphia, Fort Myers, St. Petersburg and Ann Arbor, USA</strong> | <strong>Est. 1995</strong> | <strong>Budget: $1,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>4.5/5</strong>* | DesignRush: <strong>4.8/5</strong>",
+        "<strong>Clients:</strong> Thompson Tractor, Kampgrounds of America (KOA), All Pro Trailer Superstore, Calhoun Super Structure, S. Clyde Weaver"
+      ]
+    },
+    {
+      "id": "agency-victorious",
+      "name": "Victorious",
+      "heading": "3. Victorious",
+      "cells": [
+        "3",
+        "Victorious",
+        "2013",
+        "San Francisco, USA",
+        "$50,000+",
+        "Specialist SEO, technical optimisation, content and migrations",
+        "9.2/10"
+      ],
+      "facts": [
+        "📍 <strong>San Francisco, USA</strong> | <strong>Est. 2013</strong> | <strong>Budget: $50,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.8/5</strong> | Google: <strong>4.7/5</strong>* | DesignRush: <strong>4.8/5</strong>",
+        "<strong>Clients:</strong> SoFi, GE Digital, Delta Electronics, Unboxme, Felix Gray"
+      ]
+    },
+    {
+      "id": "agency-ignite-visibility",
+      "name": "Ignite Visibility",
+      "heading": "4. Ignite Visibility",
+      "cells": [
+        "4",
+        "Ignite Visibility",
+        "2013",
+        "San Diego; Irvine, USA",
+        "$1,000+",
+        "Enterprise, franchise and multi-location search marketing",
+        "9.1/10"
+      ],
+      "facts": [
+        "📍 <strong>San Diego, Irvine, New York City and Orlando, USA</strong> | <strong>Est. 2013</strong> | <strong>Budget: $1,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.8/5</strong> | Google: <strong>4.7/5</strong>* | DesignRush: <strong>4.8/5</strong>",
+        "<strong>Clients:</strong> Experian, Dun &amp; Bradstreet, Inspire Brands, Church’s Texas Chicken, Jazzercise"
+      ]
+    },
+    {
+      "id": "agency-smartsites",
+      "name": "SmartSites",
+      "heading": "5. SmartSites",
+      "cells": [
+        "5",
+        "SmartSites",
+        "2011",
+        "Paramus; New York City, USA",
+        "$1,000+",
+        "Small-business and midsize SEO, paid search and website improvements",
+        "9.0/10"
+      ],
+      "facts": [
+        "📍 <strong>Paramus, New York City, Miami, Houston, Dallas and Denver, USA</strong> | <strong>Est. 2011</strong> | <strong>Budget: $1,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>4.9/5</strong>* | DesignRush: <strong>5.0/5</strong>",
+        "<strong>Clients:</strong> A&amp;A Thermal Spray, AGA Truck Parts, Agile Data Sites, Anexio"
+      ]
+    },
+    {
+      "id": "agency-searchbloom",
+      "name": "Searchbloom",
+      "heading": "6. Searchbloom",
+      "cells": [
+        "6",
+        "Searchbloom",
+        "2014",
+        "South Jordan, USA",
+        "$1,000+",
+        "Local SEO, national and e-commerce optimisation, with paid search support",
+        "8.9/10"
+      ],
+      "facts": [
+        "📍 <strong>South Jordan, Utah, USA</strong> | <strong>Est. 2014</strong> | <strong>Budget: $1,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>5.0/5</strong>* | DesignRush: <strong>5.0/5</strong>",
+        "<strong>Clients:</strong> ShirtSpace, Nature’s Seed, Sun &amp; Ski Sports, WH Law, DeWils Fine Cabinetry"
+      ]
+    },
+    {
+      "id": "agency-outerbox",
+      "name": "OuterBox",
+      "heading": "7. OuterBox",
+      "cells": [
+        "7",
+        "OuterBox",
+        "2004",
+        "Copley; Houston; Rochester, USA",
+        "$1,000+",
+        "E-commerce and lead-generation SEO, development and conversion optimisation",
+        "8.8/10"
+      ],
+      "facts": [
+        "📍 <strong>Copley/Akron, Ohio; Houston, Texas; Rochester, Minnesota, USA</strong> | <strong>Est. 2004</strong> | <strong>Budget: $1,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.9/5</strong>* | DesignRush: <strong>4.9/5</strong>",
+        "<strong>Clients:</strong> Matco Tools, Oneida, Tronair, Lethal Performance, University Hospitals"
+      ]
+    },
+    {
+      "id": "agency-siege-media",
+      "name": "Siege Media",
+      "heading": "8. Siege Media",
+      "cells": [
+        "8",
+        "Siege Media",
+        "2012",
+        "Austin, USA; remote team",
+        "$5,000+",
+        "Content-led SEO, digital PR and AI-search visibility",
+        "8.7/10"
+      ],
+      "facts": [
+        "📍 <strong>Austin, Chicago, New York City, San Francisco and San Diego, USA; remote team</strong> | <strong>Est. 2012</strong> | <strong>Budget: $5,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>4.3/5</strong>",
+        "<strong>Clients:</strong> Instacart, Zendesk, Asana, Chime, Zapier"
+      ]
+    },
+    {
+      "id": "agency-np-digital",
+      "name": "NP Digital",
+      "heading": "9. NP Digital",
+      "cells": [
+        "9",
+        "NP Digital",
+        "2017",
+        "Las Vegas; San Diego, USA; international offices",
+        "$1,000+",
+        "SEO within integrated performance marketing and analytics",
+        "8.6/10"
+      ],
+      "facts": [
+        "📍 <strong>Las Vegas and San Diego, USA; international offices</strong> | <strong>Est. 2017</strong> | <strong>Budget: $1,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.6/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>No rating displayed</strong>",
+        "<strong>Clients:</strong> Adobe, SoFi, Western Union, Contentful, Universal Technical Institute"
+      ]
+    },
+    {
+      "id": "agency-directive",
+      "name": "Directive",
+      "heading": "10. Directive",
+      "cells": [
+        "10",
+        "Directive",
+        "2013",
+        "Irvine, USA; Toronto, Canada; London, UK",
+        "Not disclosed on Clutch",
+        "B2B SEO, content and marketing tied to qualified sales opportunities",
+        "8.5/10"
+      ],
+      "facts": [
+        "📍 <strong>Irvine, Austin and New York City, USA; Toronto, Canada; London, UK</strong> | <strong>Est. 2013</strong> | <strong>Budget: Not disclosed on Clutch</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.8/5</strong> | Google: <strong>5.0/5</strong>* | DesignRush: <strong>4.9/5</strong>",
+        "<strong>Clients:</strong> Gong, ZoomInfo, SentinelOne, WordPress VIP, Cisco"
+      ]
+    }
+  ],
+  "quickMatch": {
+    "headers": [
+      "<strong>Your Situation</strong>",
+      "<strong>Best-Fit Agency</strong>"
+    ],
+    "rows": [
+      [
+        "<strong>Best Overall Pick</strong>",
+        "<strong>Brand Vision</strong>, this guide’s broadest-fit choice for combining SEO, website execution and strong client satisfaction."
+      ],
+      [
+        "<strong>Website and SEO overhaul</strong>",
+        "<strong>Brand Vision</strong>, particularly when messaging, site structure and user experience need attention together."
+      ],
+      [
+        "<strong>E-commerce growth with implementation support</strong>",
+        "<strong>OuterBox</strong> for SEO connected to development, or <strong>Searchbloom</strong> for coordinated organic and paid search."
+      ],
+      [
+        "<strong>B2B growth measured by qualified opportunities</strong>",
+        "<strong>Directive</strong>, when the brief requires SEO and content to support a longer sales process."
+      ]
+    ]
+  }
+}
