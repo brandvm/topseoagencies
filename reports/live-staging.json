@@ -1,0 +1,17 @@
+{
+  "site": "topseoagencies",
+  "url": "https://topseoagencies-staging.hamoun-ce6.workers.dev",
+  "checks": [
+    "Unauthenticated / protected",
+    "Unauthenticated /favicon.svg protected",
+    "Unauthenticated /_review/mode.js protected",
+    "Unauthenticated /build-info.json protected",
+    "Authenticated page / available and noindex",
+    "Authenticated page /blog/ available and noindex",
+    "Authenticated page /blog/top-seo-agencies/ available and noindex",
+    "Comment persists between independent authenticated sessions",
+    "Page and branch isolation enforced",
+    "Resolve succeeds"
+  ],
+  "commit": "95e5174ea8e2eed70485cd39b1e8ff307dd8233e"
+}
