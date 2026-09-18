@@ -1,0 +1,13 @@
+{
+  "site": "topseoagencies",
+  "url": "https://topseoagencies-staging.hamoun-ce6.workers.dev",
+  "commit": "9de23a908fdaa178fad35afd804fcbd4ce146d46",
+  "checks": [
+    "Unauthenticated pages, assets, and build metadata are protected",
+    "3 authenticated pages available with noindex",
+    "Login name is enforced server-side for comments and replies",
+    "Independent sessions read the same persisted thread",
+    "Page and branch isolation remains enforced",
+    "QA thread resolved after verification"
+  ]
+}
