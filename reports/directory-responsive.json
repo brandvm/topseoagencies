@@ -1,0 +1,105 @@
+{
+  "site": "topseoagencies",
+  "checks": [
+    {
+      "route": "/",
+      "bodyWidth": 320,
+      "h1": "Top SEO Agencies2026 guide",
+      "logos": 10,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 10,
+      "width": 320
+    },
+    {
+      "route": "/",
+      "bodyWidth": 390,
+      "h1": "Top SEO Agencies2026 guide",
+      "logos": 10,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 10,
+      "width": 390
+    },
+    {
+      "route": "/",
+      "bodyWidth": 768,
+      "h1": "Top SEO Agencies2026 guide",
+      "logos": 10,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 10,
+      "width": 768
+    },
+    {
+      "route": "/",
+      "bodyWidth": 1024,
+      "h1": "Top SEO Agencies2026 guide",
+      "logos": 10,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 10,
+      "width": 1024
+    },
+    {
+      "route": "/",
+      "bodyWidth": 1440,
+      "h1": "Top SEO Agencies2026 guide",
+      "logos": 10,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 10,
+      "width": 1440
+    },
+    {
+      "route": "/blog/",
+      "bodyWidth": 320,
+      "h1": "Find the right agency.",
+      "logos": 0,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 0,
+      "width": 320
+    },
+    {
+      "route": "/blog/",
+      "bodyWidth": 390,
+      "h1": "Find the right agency.",
+      "logos": 0,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 0,
+      "width": 390
+    },
+    {
+      "route": "/blog/",
+      "bodyWidth": 768,
+      "h1": "Find the right agency.",
+      "logos": 0,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 0,
+      "width": 768
+    },
+    {
+      "route": "/blog/",
+      "bodyWidth": 1024,
+      "h1": "Find the right agency.",
+      "logos": 0,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 0,
+      "width": 1024
+    },
+    {
+      "route": "/blog/",
+      "bodyWidth": 1440,
+      "h1": "Find the right agency.",
+      "logos": 0,
+      "missingImages": [],
+      "overflow": [],
+      "profiles": 0,
+      "width": 1440
+    }
+  ]
+}

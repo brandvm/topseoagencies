@@ -1,0 +1,13 @@
+{
+  "site": "topseoagencies",
+  "commit": "b95b5ec099c13a6cc22960666123f8f0179542e0",
+  "pages": [
+    "/design/"
+  ],
+  "checks": [
+    "Unauthenticated design pages, CSS and fonts are protected",
+    "Authenticated design pages return 200 and noindex",
+    "Login preserves the style-guide return URL",
+    "Guide API accepts the correct page identifier"
+  ]
+}

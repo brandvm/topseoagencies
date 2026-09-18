@@ -1,31 +1,31 @@
-# Staging acceptance report
+# Acceptance report — article homepage and agency directory
 
-Site: Top SEO Agencies. 1 articles, 3 content pages, 10 agency profiles and 10 FAQs. Additional 404 and authentication pages are not included in the content-page count.
+The main supplied article is now `/`. The other 0 supplied article(s) retain their existing URLs and are linked directly from the navbar. `/blog/` is a secondary comparison index in the footer. This site has 1 complete articles, 10 agency profiles, 10 FAQs and 2 content pages; 404 and design pages are additional. The old primary article URL redirects home and is excluded from the sitemap.
 
-## Automated production checks
+A compact research heading paired with a guide-at-a-glance panel, a ten-company identity strip, teal comparison tables and data-first profile cards. Typography is Manrope + Inter Tight, both self-hosted modern sans-serif fonts. Company identity tiles link directly to the corresponding profiles. Official-site icon sources and neutral initials fallbacks are recorded in `docs/agency-marks.json`.
 
-All content blocks and links from the supplied export are preserved (typographic apostrophe normalization only). Astro checks, structured-content checks, internal links, unique anchors, heading hierarchy, canonical/schema output, production indexing settings and draft exclusion pass. An all-draft build passes and emits no article pages; restoring published content produces the identical HTML used for the Lighthouse audit.
+## Measured production Lighthouse results
 
-Production JavaScript: **0 bytes**. Maximum compressed CSS: **3,189 bytes**. Fonts per page: **61,768 bytes**. Review scripts, controls, APIs and database bindings are absent from production output.
+Three runs per route and device; medians below. These are local production-build measurements, not public PageSpeed Insights or real-user field results. The production snapshot has no review or design-desk resources.
 
-Three Lighthouse runs per page/device, measured locally with Lighthouse 13.5.0. All agreed thresholds pass. CI repeats these audits before staging deployment. These lab results do not establish real-user Core Web Vitals.
+| Route | Device | Performance | Accessibility | Best practices | SEO |
+|---|---|---:|---:|---:|---:|
+| / | mobile | 96 | 100 | 100 | 100 |
+| / | desktop | 100 | 100 | 100 | 100 |
+| /blog/ | mobile | 100 | 100 | 100 | 100 |
+| /blog/ | desktop | 100 | 100 | 100 | 100 |
 
-| Page | Mobile P/A/BP/SEO | Desktop P/A/BP/SEO |
-|---|---|---|
-| `/` | 100 / 100 / 100 / 100 | 100 / 100 / 100 / 100 |
-| `/blog/` | 100 / 100 / 100 / 100 | 100 / 100 / 100 / 100 |
-| `/blog/top-seo-agencies/` | 100 / 100 / 100 / 100 | 100 / 100 / 100 / 100 |
+## Validation
 
-## Responsive and review checks
+- Astro checks, content tests, production build and structural validation pass. All supplied source blocks and rankings are preserved; see `source-integrity.json`.
+- Staging build, structural checks, authentication/review integration tests and Wrangler deployment dry run pass.
+- `directory-responsive.json` checks every content route at 320, 390, 768, 1024 and 1440px. No page overflow or broken loaded images was observed. Table overflow stays inside its scroll region. Desktop and mobile homepage screenshots were inspected.
+- `design-responsive.json` records the six style guides and central reference board checks at those widths. The board includes 18 attributed references and actual homepage screenshots; filters show eight Mobbin references and restore all eighteen.
+- Representative keyboard checks cover visible skip-link focus and direct navbar navigation. Automated accessibility is 100; a complete screen-reader journey and comprehensive zoom review have not been certified.
+- Production structural checks verify canonical URLs, sitemap, internal links, headings, draft exclusion, JSON-LD, asset budgets and exclusion of review/design resources. Per-page byte counts are in `structure-production.json`.
 
-All content pages checked at 320, 390, 768, 1024 and 1440 pixels; no page-level horizontal overflow. Desktop homepages and narrow article templates visually inspected. Tables scroll independently on narrow screens. Accessibility trees and visible navigation/form labels inspected; the review interface provides keyboard section selection and avoids global single-letter shortcuts.
+## Review continuity and deployment
 
-Per-site local Worker tests pass for direct page/asset/API authentication, forged and expired sessions, same-origin writes, rate limiting, idempotent posting, replies, reactions, resolve/reopen, page/branch isolation and persistence through Worker reloads. Live tests confirm all content pages behind authentication, noindex headers, and persistence between independently authenticated sessions.
+Old primary-article URLs redirect to `/` with review query parameters intact. The API accepts the canonical and legacy page as one conversation group, while retaining other page/site/scope isolation. Existing D1 records are not rewritten or deleted. Integration tests cover legacy thread reads, replies, reactions, resolution, missing anchors, expired sessions and direct asset/API protection. Removed page elements keep the explicit location-changed state.
 
-Representative live Chicago UI checks pass for point/rectangle selections, keyboard section selection, replies, direct thread links, original revision/viewport display, draft recovery across reload, and mobile card placement above the toolbar. Protected alias and immutable version URLs were checked. A removed-anchor preview keeps its original thread readable with an explicit location-changed notice. A live Chicago rollback preserves D1 threads and restores the current version.
-
-## Remaining human checks / measurement limits
-
-A complete manual screen-reader journey and separate browser-level zoom review have not been certified. Two independent authenticated sessions passed. Cross-browser UI persistence was also verified in the in-app browser and Google Chrome: Chrome loaded the original thread and reply, then successfully posted a second-browser reply. Screen-reader and separate browser-zoom checks remain on the review checklist. Automated accessibility 100 does not constitute full WCAG certification. Real-user LCP/INP/CLS and public PageSpeed checks require approved launch and sufficient traffic.
-
-No production domain is connected. Passwords and deployment credentials are outside Git. Review feedback remains in this site's D1 database when code is deployed or rolled back.
+The existing name/password login and comment interface remain available on protected noindex Cloudflare staging. No database migration, credential change or production-domain change is part of this revision. All six repositories retain separate source, assets and databases. Public PageSpeed and field Core Web Vitals remain launch-stage measurements.
