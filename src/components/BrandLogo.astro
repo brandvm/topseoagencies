@@ -1,0 +1,15 @@
+---
+import {withBase} from '../lib/content';
+---
+<picture class="brand-logo">
+  <source media="(max-width: 540px)" srcset={withBase('/brand/logo-compact.svg')} width="208" height="76"/>
+  <img src={withBase('/wordmark.svg')} width="245" height="84" alt="" loading="eager" decoding="sync"/>
+</picture>
+<style>
+  .brand-logo { display: block; width: 175.0px; max-width: 100%; }
+  .brand-logo img { display: block; width: 100%; height: auto; }
+  @media (max-width: 540px) {
+    .brand-logo { width: 142.316px; }
+    .brand-logo img { aspect-ratio: 208 / 76; }
+  }
+</style>
