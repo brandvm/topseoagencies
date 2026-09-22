@@ -1,6 +1,6 @@
 {
   "site": "topseoagencies",
-  "build": "local",
+  "build": "23063620df88f885b603bdbbc1c34f3a8d7c2e47",
   "tool": "Lighthouse",
   "runsPerPage": 3,
   "results": [
@@ -8,7 +8,7 @@
       "route": "/",
       "mode": "mobile",
       "median": {
-        "performance": 96,
+        "performance": 100,
         "accessibility": 100,
         "best-practices": 100,
         "seo": 100
@@ -16,42 +16,42 @@
       "runs": [
         {
           "scores": {
-            "performance": 96,
+            "performance": 100,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 2028.4736999999998,
-            "cls": 0.1018578353749788,
+            "lcp": 1802.2439,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 96,
+            "performance": 100,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 2027.4849,
-            "cls": 0.1018578353749788,
+            "lcp": 1876.9789,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 96,
+            "performance": 100,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 2042.6968618735036,
-            "cls": 0.1018578353749788,
+            "lcp": 1802.4753,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -76,7 +76,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 444.24865,
+            "lcp": 462.39300000000003,
             "cls": 0,
             "tbt": 0
           },
@@ -90,8 +90,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 482.4477,
-            "cls": 0.001195072974126609,
+            "lcp": 461.72479999999996,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -104,8 +104,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 483.08310000000006,
-            "cls": 0.001195072974126609,
+            "lcp": 461.75389999999993,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -130,21 +130,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1501.2384,
-            "cls": 0.001679614631927949,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1501.02345,
+            "lcp": 1500.9751,
             "cls": 0,
             "tbt": 0
           },
@@ -158,8 +144,22 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1501.28115,
-            "cls": 0.001679614631927949,
+            "lcp": 1500.8783,
+            "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1501.7649,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -184,8 +184,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 361.0005,
-            "cls": 0.007827997001138254,
+            "lcp": 320.9808,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -198,8 +198,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 360.98325,
-            "cls": 0.007827997001138254,
+            "lcp": 320.7248,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -212,7 +212,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 361.0497,
+            "lcp": 320.8254,
             "cls": 0,
             "tbt": 0
           },

@@ -3,21 +3,21 @@
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 3509,
+      "cssGzipBytes": 3546,
       "fontBytes": 69708,
       "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 3509,
+      "cssGzipBytes": 3546,
       "fontBytes": 69708,
       "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 3509,
+      "cssGzipBytes": 3546,
       "fontBytes": 69708,
       "javascriptGzipBytes": 0,
       "profiles": 10
