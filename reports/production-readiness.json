@@ -1,0 +1,170 @@
+{
+  "site": "topseoagencies",
+  "domain": "www.topseoagencies.co",
+  "build": "61bc260037ffaf3bcb6021a9bb626e17da6a191f",
+  "assetsOnly": true,
+  "reviewFeatures": false,
+  "crawlable": true,
+  "pages": [
+    {
+      "route": "/",
+      "title": "Top 10 SEO Agencies: Services & Budgets (2026)",
+      "description": "Compare 10 SEO agencies by services, project budgets, client experience and business fit. Explore detailed profiles and practical advice for your shortlist.",
+      "canonical": "https://www.topseoagencies.co/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Top SEO Agencies 2026 guide"
+        },
+        {
+          "level": 2,
+          "text": "Build a shortlist with context."
+        },
+        {
+          "level": 2,
+          "text": "In this guide"
+        },
+        {
+          "level": 2,
+          "text": "Overview Table."
+        },
+        {
+          "level": 2,
+          "text": "Full Agency Profiles"
+        },
+        {
+          "level": 3,
+          "text": "Brand Vision"
+        },
+        {
+          "level": 3,
+          "text": "WebFX"
+        },
+        {
+          "level": 3,
+          "text": "Victorious"
+        },
+        {
+          "level": 3,
+          "text": "Ignite Visibility"
+        },
+        {
+          "level": 3,
+          "text": "SmartSites"
+        },
+        {
+          "level": 3,
+          "text": "Searchbloom"
+        },
+        {
+          "level": 3,
+          "text": "OuterBox"
+        },
+        {
+          "level": 3,
+          "text": "Siege Media"
+        },
+        {
+          "level": 3,
+          "text": "NP Digital"
+        },
+        {
+          "level": 3,
+          "text": "Directive"
+        },
+        {
+          "level": 2,
+          "text": "Quick Match"
+        },
+        {
+          "level": 2,
+          "text": "Methodology: How We Assess SEO Agencies"
+        },
+        {
+          "level": 3,
+          "text": "1. Value & Return on Investment"
+        },
+        {
+          "level": 3,
+          "text": "2. Proven Client Satisfaction"
+        },
+        {
+          "level": 3,
+          "text": "3. Experience and Work Quality"
+        },
+        {
+          "level": 3,
+          "text": "4. Team Depth & In-House Capability"
+        },
+        {
+          "level": 3,
+          "text": "5. Process & Technical Standards"
+        },
+        {
+          "level": 3,
+          "text": "6. Client Outcomes & Longevity"
+        },
+        {
+          "level": 2,
+          "text": "FAQ"
+        },
+        {
+          "level": 3,
+          "text": "1. How do I choose the right SEO agency for my business?"
+        },
+        {
+          "level": 3,
+          "text": "2. Are these minimum budgets monthly fees for SEO services?"
+        },
+        {
+          "level": 3,
+          "text": "3. Should I choose an SEO specialist or a full-service agency?"
+        },
+        {
+          "level": 3,
+          "text": "4. Should I hire an SEO agency before redesigning my website?"
+        },
+        {
+          "level": 3,
+          "text": "5. Which SEO agencies should an e-commerce business consider?"
+        },
+        {
+          "level": 3,
+          "text": "6. Which SEO agencies are worth considering for B2B or SaaS?"
+        },
+        {
+          "level": 3,
+          "text": "7. What should a proposal for SEO services include?"
+        },
+        {
+          "level": 3,
+          "text": "8. How should I judge whether an SEO engagement is progressing?"
+        },
+        {
+          "level": 3,
+          "text": "9. Should I choose the agency with the highest review ratings?"
+        },
+        {
+          "level": 3,
+          "text": "10. Should an SEO agency guarantee first-place rankings?"
+        }
+      ]
+    },
+    {
+      "route": "/blog/",
+      "title": "Guides & comparisons | Top SEO Agencies",
+      "description": "Browse Top SEO Agencies's detailed agency comparisons, practical hiring advice, and project guides.",
+      "canonical": "https://www.topseoagencies.co/blog/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Find the right agency."
+        },
+        {
+          "level": 2,
+          "text": "Top SEO Agencies (2026)"
+        }
+      ]
+    }
+  ]
+}
