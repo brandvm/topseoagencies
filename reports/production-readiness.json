@@ -1,7 +1,7 @@
 {
   "site": "topseoagencies",
-  "domain": "topseoagencies.co",
-  "build": "23063620df88f885b603bdbbc1c34f3a8d7c2e47",
+  "domain": "www.topseoagencies.co",
+  "build": "c533a786657cf1b12070964f3a99bf360b310a4a",
   "assetsOnly": true,
   "reviewFeatures": false,
   "crawlable": true,
@@ -10,7 +10,7 @@
       "route": "/",
       "title": "Top 10 SEO Agencies: Services & Budgets (2026)",
       "description": "Compare 10 SEO agencies by services, project budgets, client experience and business fit. Explore detailed profiles and practical advice for your shortlist.",
-      "canonical": "https://topseoagencies.co/",
+      "canonical": "https://www.topseoagencies.co/",
       "headings": [
         {
           "level": 1,
@@ -154,7 +154,7 @@
       "route": "/blog/",
       "title": "Guides & comparisons | Top SEO Agencies",
       "description": "Browse Top SEO Agencies's detailed agency comparisons, practical hiring advice, and project guides.",
-      "canonical": "https://topseoagencies.co/blog/",
+      "canonical": "https://www.topseoagencies.co/blog/",
       "headings": [
         {
           "level": 1,
