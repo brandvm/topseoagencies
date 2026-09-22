@@ -1,0 +1,52 @@
+{
+  "agency-brand-vision": {
+    "name": "Brand Vision",
+    "url": "https://www.brandvm.com/",
+    "clutch": "https://clutch.co/profile/brand-vision-1"
+  },
+  "agency-directive": {
+    "name": "Directive",
+    "url": "https://directiveconsulting.com/",
+    "clutch": "https://clutch.co/profile/directive"
+  },
+  "agency-ignite-visibility": {
+    "name": "Ignite Visibility",
+    "url": "https://ignitevisibility.com/",
+    "clutch": "https://clutch.co/profile/ignite-visibility"
+  },
+  "agency-np-digital": {
+    "name": "NP Digital",
+    "url": "https://npdigital.com/",
+    "clutch": "https://clutch.co/profile/np-digital"
+  },
+  "agency-outerbox": {
+    "name": "OuterBox",
+    "url": "https://www.outerboxdesign.com/",
+    "clutch": "https://clutch.co/profile/outerbox"
+  },
+  "agency-searchbloom": {
+    "name": "Searchbloom",
+    "url": "https://www.searchbloom.com/",
+    "clutch": "https://clutch.co/profile/searchbloom"
+  },
+  "agency-siege-media": {
+    "name": "Siege Media",
+    "url": "https://www.siegemedia.com/",
+    "clutch": "https://clutch.co/profile/siege-media"
+  },
+  "agency-smartsites": {
+    "name": "SmartSites",
+    "url": "https://www.smartsites.com/",
+    "clutch": "https://clutch.co/profile/smartsites"
+  },
+  "agency-victorious": {
+    "name": "Victorious",
+    "url": "https://victorious.com/",
+    "clutch": "https://clutch.co/profile/victorious"
+  },
+  "agency-webfx": {
+    "name": "WebFX",
+    "url": "https://www.webfx.com/",
+    "clutch": "https://clutch.co/profile/webfx"
+  }
+}

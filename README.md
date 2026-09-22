@@ -59,3 +59,7 @@ Open `/design/` on protected staging for this publication’s rendered style gui
 The full `top-seo-agencies` article is the homepage. Other supplied articles retain their existing `/blog/<slug>/` URLs and appear directly in the navbar. `/blog/` remains a secondary comparison index, linked in the footer. The former main-article URL redirects to `/` and is excluded from the sitemap; review queries include its legacy conversation without moving or deleting D1 records. Original anchors, commit context and page isolation remain intact.
 
 All interface typography uses self-hosted modern sans-serif Google Fonts. Company marks are small locally hosted identity images; `docs/agency-marks.json` records their source. Where an official asset is unavailable, a neutral initials tile identifies the agency. These are company navigation tiles, not client endorsements or verification badges.
+
+## Analytics
+
+Production uses consent-based Google Analytics 4 under Brand Vision Insights. See [analytics setup and AI-referral reporting](docs/analytics.md). Agency entity sources are recorded in [agency identities](docs/agency-entities.md).
