@@ -12,3 +12,5 @@
 
 /* Row headers identify each agency or project without adopting column-header styling. */
 tbody th[scope="row"]{font-size:inherit;font-weight:650;letter-spacing:normal;text-transform:none;background:transparent;min-width:135px}tbody tr:last-child th{border-bottom:0}
+
+.agency-identity{font-size:14px;margin:0 0 16px}.analytics-settings{padding:0;border:0;background:none;color:inherit;text-decoration:underline;text-underline-offset:4px;text-align:left;cursor:pointer;min-height:44px}.analytics-settings[hidden]{display:none}
